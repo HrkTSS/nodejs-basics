@@ -1,0 +1,2 @@
+I am writing to a file programmatically
+I am updating to a file programmatically as both use same file literally overwrite it adding flag-a will append rather overwrite

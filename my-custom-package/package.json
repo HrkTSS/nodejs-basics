@@ -1,8 +1,8 @@
 {
   "name": "my-greet",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "My first custom package",
-  "main": "index.js",
+  "main": "index.mjs",
   "type": "module",
   "scripts": {
     "start": "node index.mjs"

@@ -1,0 +1,23 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  my-greet:
+    specifier: ^1.0.3
+    version: 1.0.3
+
+packages:
+
+  /my-greet@1.0.3:
+    resolution: {integrity: sha512-Zz+DwWwFUryDgJdAkxPjnwOuLDl42cV1mtv95bdaEC5GKKVc8qp7NQjDGHAVKGoJBhnDHyuZPD5cQNfTtBpIZw==}
+    dependencies:
+      upper-case: 3.0.0
+    dev: false
+
+  /upper-case@3.0.0:
+    resolution: {integrity: sha512-q6ZAk+RaBO94GGFpdM6GJ2pOXx6Ky/BK9xluGUqMYvY6qZjFN7RPbzqcd+OBru8tRFlcLcS40AIrIq48VhcTIA==}
+    deprecated: Use `str.toLocaleUpperCase` or `str.toUpperCase`
+    dev: false

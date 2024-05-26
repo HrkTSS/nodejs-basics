@@ -1,6 +1,6 @@
 {
   "name": "my-greet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My first custom package",
   "main": "index.js",
   "type": "module",

@@ -1,0 +1,16 @@
+{
+  "name": "my-greet",
+  "version": "1.0.0",
+  "description": "My first custom package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "upper-case": "^3.0.0"
+  }
+}

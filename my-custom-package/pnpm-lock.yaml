@@ -1,0 +1,17 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  upper-case:
+    specifier: ^3.0.0
+    version: 3.0.0
+
+packages:
+
+  /upper-case@3.0.0:
+    resolution: {integrity: sha512-q6ZAk+RaBO94GGFpdM6GJ2pOXx6Ky/BK9xluGUqMYvY6qZjFN7RPbzqcd+OBru8tRFlcLcS40AIrIq48VhcTIA==}
+    deprecated: Use `str.toLocaleUpperCase` or `str.toUpperCase`
+    dev: false
